@@ -1,0 +1,23 @@
+.songs-page {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+    min-width:50vh ;
+    position: relative;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6); /* dark overlay */
+    min-height: 100vh;
+    padding: 40px 0;
+}
+
+.songs-container {
+    min-width: 150vh;
+    margin: auto;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
